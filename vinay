@@ -1,3 +1,5 @@
+//program for palindrome number
+
 #include <stdio.h>
  
  int main()
